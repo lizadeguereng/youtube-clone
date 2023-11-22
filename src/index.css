@@ -44,6 +44,9 @@ a {
   outline:none;
   width:350px;
 }
+.search-icon:hover{
+    color: rgb(239, 135, 177);
+}
 
 .category-btn{
   font-weight: bold !important;
